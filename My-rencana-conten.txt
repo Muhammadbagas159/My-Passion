@@ -1,0 +1,8 @@
+Rencana konten saya 
+
+- Javascript
+  * ES6
+  * Frameworks Javascript
+- PHP Framerwork
+- Build My Blog
+- Vlogs
